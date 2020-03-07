@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/navigation/navigation",
+    "pages/index/index",
+    "pages/index/shopping-infor",
+    "pages/car/car",
+    "pages/car/order",
+    "pages/car/pay-result",
+    "pages/user/user",
+    "pages/user/my-address",
+    "pages/user/add-address",
+    "pages/user/all-order",
+    "pages/user/state-order",
+    "pages/user/refund",
+    "pages/user/my-money",
+    "pages/user/my-coupon",
+    "pages/none/none"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "index": "/pages/index/index",
+    "car": "/pages/car/car",
+    "user": "/pages/user/user"
+  },
+  "sitemapLocation": "sitemap0.json"
+}

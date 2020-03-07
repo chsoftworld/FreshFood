@@ -1,0 +1,30 @@
+
+.shopping-title{
+	font-size: 38rpx;
+	font-weight: 900;
+	color: #333333;
+}
+.shopping-title-infor{
+	font-size: 30rpx;
+}
+image[class*="gif-"] {
+		border-radius: 6rpx;
+		display: block;
+}
+/* css 滤镜 控制黑白底色gif的 */
+.gif-black{  
+  mix-blend-mode: screen;
+}
+.gif-white{  
+  mix-blend-mode: multiply;
+}
+/* .information-header{
+	position: relative;
+	top: -100upx;
+	border-top-left-radius:50upx;
+	border-top-right-radius:50upx; 
+	height: 1px;
+} */
+
+
+

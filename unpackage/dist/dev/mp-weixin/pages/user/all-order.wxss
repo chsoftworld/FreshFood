@@ -1,0 +1,14 @@
+
+.order-body{
+	border-radius:30rpx;
+	margin: 30rpx 10rpx;
+	padding: 20rpx 5rpx;
+}
+.cu-card>.cu-item {
+	margin: 10rpx 30rpx;
+}
+.user-border-radius{
+	border-radius:30rpx;
+	margin: 20rpx 30rpx;
+}
+

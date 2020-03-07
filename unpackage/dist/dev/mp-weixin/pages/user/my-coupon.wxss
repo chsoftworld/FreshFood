@@ -1,0 +1,7 @@
+
+.youhuijuan-body{
+	position: relative;
+	top: -160rpx;
+	left: 60rpx;
+}
+

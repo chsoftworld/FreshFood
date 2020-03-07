@@ -1,0 +1,27 @@
+
+.car-body{
+	border-radius:30rpx;
+	margin: 30rpx 10rpx;
+}
+.shaoping-title{
+		width: 450rpx;
+		font-size: 30rpx;
+		font-weight: 900;
+		color: #333333;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		overflow: hidden;
+}
+.shoping-img{
+	width: 150rpx;
+	height: 150rpx;
+}
+.foot-list{
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 120rpx;
+	border-radius:30rpx;
+	margin: 0 10rpx;
+}
+

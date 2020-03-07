@@ -1,0 +1,8 @@
+
+.edit-buttom{
+	position: absolute;
+	bottom: 10rpx;
+	left: 0;
+	right: 0;
+}
+

@@ -1,0 +1,19 @@
+
+.shaoping-title{
+		width: 450rpx;
+		font-size: 30rpx;
+		font-weight: 900;
+		color: #333333;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		overflow: hidden;
+}
+.shoping-img{
+	width: 150rpx;
+	height: 150rpx;
+}
+.order-body{
+	border-radius:20rpx;
+	margin: 10rpx;
+}
+
